@@ -1,0 +1,178 @@
+Task ID;Area;Category;Progress;Priority;Assigned To;Created Date;Start date;Due date;Completed Date;Completed By;Req Type
+6cVp9qC_lk6kMMl29C-weWUAL-JI;Projects;Automatizations;In progress;Important;Member 1;7/5/2024;7/4/2024;10/31/2024;;;Development
+nSSJAd9tU20L3n94cLyjGUAKBco;Customer Experience;CRM Issues;In progress;Medium;Member 3;5/23/2024;8/12/2024;10/18/2024;;;Process
+sVUeOsLnaEqZ9_eDx0OhsGUAGRSN;Customer Experience;Projects;In progress;Important;Member 3;6/5/2024;4/8/2024;10/18/2024;;;Process
+hi5t1yHGdk64oQeCxXmbYGUAJGed;Customer Experience;CRM Issues;In progress;Important;Member 3;5/23/2024;9/24/2024;10/18/2024;;;Process
+7yI5lxNtnUak1RJswkgyiWUAEaeG;Field Operations;App support;In progress;Important;Member 3;7/8/2024;7/8/2024;10/18/2024;;;Project
+91uUYhUjUkW3iB_QR3yrHGUAO2OX;Customer Experience;CRM Issues;Not started;Important;Member 3;8/12/2024;8/13/2024;10/18/2024;;;Process
+dN_RQL3aE6q28NHbA9o0mUAAyDH;Projects;CRM Issues;In progress;Important;Member 3;8/22/2024;9/2/2024;10/18/2024;;;Process
+edD6RurB_0mIf7jDfgJyd2UAL2X_;Projects;CRM Issues;Not started;Important;Member 3;8/22/2024;9/11/2024;10/23/2024;;;Process
+uFyUempD8E-bh0qyddDrvWUAIARn;Customer Experience;CRM Issues;Completed;Urgent;Member 3;10/3/2024;10/2/2024;10/25/2024;10/24/2024;Member 2;Process
+kuaEmqDaBU-ygJIvquo3CmUAD6_A;Customer Experience;CRM Issues;In progress;Important;Member 3;10/8/2024;10/4/2024;10/18/2024;;;Process
+jjU7A4vOKEiRLLBpchrwlGUAHSI5;Branding & Design;Marketing;Not started;Medium;Member 3;11/14/2024;;;;;Process
+W7A-JQsUmECBZKwHwNygIGUAIzQ6;Administrative & Financial ;Accounting Processes;Completed;Medium;Member 1;9/26/2024;9/2/2024;9/26/2024;9/26/2024;Member 1;Development
+X7UQlrsqYki9L-19xSSTmUAInR9;Customer Experience;App support;In progress;Important;Member 1;5/17/2024;1/3/2024;10/31/2024;;;Development
+FDVKUlWK8EGuUg79jQ197mUANXnP;Projects;App support;Completed;Important;Member 1;5/17/2024;7/17/2024;8/8/2024;8/8/2024;Member 1;Automations
+wxFTTCMhuUmkGSR4Wnq3r2UAE2Ne;Human Resources;Human Resources Processes;Not started;Medium;Member 1;9/19/2024;9/19/2024;;;;Development
+j6nm2ZGrY0aNIwHxW5GMxWUAO4Or;Customer Experience;CRM Issues;Completed;Important;Member 1;9/23/2024;9/23/2024;9/26/2024;9/26/2024;Member 2;Development
+XYTYbKJNRkCLap-K7IUQV2UAAVvM;Projects;Accounting Processes;Not started;Medium;Member 1;9/26/2024;9/26/2024;;;;Development
+6KRMT_WKx0Cn465vnQX20WUAGYTY;Customer Experience;CRM Issues;Completed;Important;Member 1;9/30/2024;9/30/2024;9/30/2024;10/1/2024;Member 1;Development
+NFLLm9latkWlTftyjWnPrGUACXsa;Customer Experience;App support;Completed;Important;Member 1;10/3/2024;10/2/2024;10/29/2024;10/28/2024;Member 1;Development
+tt6FYRp5eU278eJkyBPpkWUAKJnN;Administrative & Financial ;Automatizations;Completed;Important;Member 1;7/12/2024;7/11/2024;9/23/2024;9/23/2024;Director;Automations
+LSqOqDimxESx0cqjQS9LLWUAD8gx;Administrative & Financial ;Automatizations;Completed;Important;Member 1;7/15/2024;7/11/2024;8/30/2024;8/29/2024;Member 1;Automations
+M-6eALAqxUeGrzi3TJvXFmUALhAd;Customer Experience;CRM Issues;Completed;Urgent;Member 1;7/24/2024;7/24/2024;7/24/2024;7/24/2024;Member 1;Development
+Ptd-1kGLDUSawbz1rFAVnmUALidm;Customer Experience;CRM Issues;Completed;Urgent;Member 1;7/24/2024;7/24/2024;7/24/2024;7/24/2024;Member 1;Development
+_Uy0DZIwlEKqXVJwMJ4pHWUANZdZ;Customer Experience;CRM Issues;Completed;Urgent;Member 1;7/25/2024;7/25/2024;7/26/2024;7/26/2024;Member 1;Development
+7ei3VeVuKk60OQ-jzrLp-WUAItl2;Customer Experience;CRM Issues;Completed;Urgent;Member 1;7/25/2024;7/26/2024;7/26/2024;7/26/2024;Member 1;Development
+Y7AozUJqCEiKDrR_0PxEW2UAMrNr;Customer Experience;CRM Issues;Completed;Urgent;Member 1;7/29/2024;7/29/2024;7/29/2024;7/29/2024;Member 1;Development
+S0wCQ78Q5U2pZiIPFJOh0GUAEg6B;Customer Experience;CRM Issues;Completed;Medium;Member 1;7/29/2024;7/29/2024;7/29/2024;7/30/2024;Member 1;Development
+rGlpq8YagUCxmqzWmHGkImUAJS_m;Customer Experience;CRM Issues;Completed;Medium;Member 1;7/29/2024;7/29/2024;7/30/2024;7/30/2024;Member 1;Development
+-xSP2XGRnki8TQwpHN8HGmUAJ4k;Customer Experience;CRM Issues;Completed;Important;Member 1;7/30/2024;8/5/2024;8/9/2024;8/9/2024;Member 1;Development
+P-Ix-MSheUWkcsRWB39NHmUAA0av;Customer Experience;CRM Issues;Completed;Medium;Member 1;8/1/2024;8/1/2024;8/1/2024;8/1/2024;Member 1;Development
+dffkFHErGUy54KgJXvSlqmUADHic;Customer Experience;CRM Issues;Completed;Urgent;Member 1;8/5/2024;8/5/2024;8/5/2024;8/5/2024;Member 1;Development
+R2SXZQNQmUix3mTDORVPzWUAAWeb;IT;Automatizations;Completed;Important;Member 1;8/20/2024;9/25/2024;10/23/2024;11/5/2024;Member 1;Automations
+nPY_pceRd0q-XTgQEo6dBGUADG38;Customer Experience;CRM Issues;Completed;Medium;Member 1;8/22/2024;8/22/2024;8/22/2024;8/22/2024;Member 1;Development
+SXUajtsBG0Wej8L7JC4_32UAPIWf;Projects;App support;In progress;Medium;Member 1;8/28/2024;8/28/2024;;;;Project
+gZO-DkbIu2GmwZ_1LNI5GUADRKi;Customer Experience;CRM Issues;Completed;Medium;Member 1;8/30/2024;8/30/2024;8/30/2024;8/30/2024;Member 1;Development
+o9uwKokI0EKCRDyoSAzFr2UABCFg;Customer Experience;CRM Issues;Completed;Medium;Member 1;9/2/2024;9/2/2024;9/2/2024;9/2/2024;Member 1;Development
+fdBP3tp77UilQpR7tfv2MGUAP1Id;Customer Experience;CRM Issues;Completed;Important;Member 1;9/3/2024;9/3/2024;9/3/2024;9/3/2024;Member 1;Development
+6OzWG-kSEkCHFMwjfZXihmUAPJj8;Administrative & Financial ;App support;Completed;Medium;Member 1;9/4/2024;9/16/2024;10/4/2024;10/4/2024;Member 1;Automations
+tOHPhQgjTkmJDQVlkXEGdmUAI_xQ;Customer Experience;CRM Issues;Completed;Important;Member 1;9/5/2024;9/5/2024;9/5/2024;9/6/2024;Member 2;Development
+gq1uo45O60uIuBeEFH54SGUAGBy3;Customer Experience;App support;Completed;Important;Member 1;9/6/2024;9/9/2024;9/27/2024;9/27/2024;Member 1;Development
+Cxw9sR66a0ebFyDp54XPjmUANRSc;Customer Experience;CRM Issues;Completed;Important;Member 1;9/10/2024;9/10/2024;9/11/2024;9/11/2024;Member 2;Development
+zUzk8BW8kk215zvTMi0KnWUAFBEc;Customer Experience;CRM Issues;Completed;Medium;Member 1;9/13/2024;9/13/2024;9/13/2024;9/13/2024;Member 1;Development
+XBCqdFrRQkOxt1nz5oxcc2UAMhwX;Customer Experience;App support;Completed;Medium;Member 1;9/17/2024;9/19/2024;9/19/2024;9/19/2024;Member 1;Development
+kjrn22L5s0a3MVC-S5CMrmUADOZJ;Customer Experience;CRM Issues;Completed;Important;Member 1;10/15/2024;10/15/2024;10/15/2024;10/15/2024;Member 1;Development
+QfYjtUQVQkq_YYHQKwPqLGUANUyo;Customer Experience;App support;Completed;Medium;Member 1;10/15/2024;10/17/2024;10/17/2024;10/16/2024;Member 1;Development
+TBnYBPe4NE-VQZkEYt9rs2UAAgZd;Customer Experience;CRM Issues;Completed;Important;Member 1;10/17/2024;10/18/2024;10/18/2024;10/18/2024;Member 1;Development
+6EtRSVqAV0ygAS0r2IsWgmUAAmm5;Customer Experience;CRM Issues;Completed;Important;Member 1;10/17/2024;10/18/2024;10/18/2024;10/18/2024;Member 1;Development
+swzDu66MTUW6kEBs7m7WvWUAPsI0;Customer Experience;CRM Issues;Completed;Important;Member 1;10/18/2024;10/21/2024;10/21/2024;10/22/2024;Member 2;Development
+Y8AL_L55w0i0yWcMgM1Fa2UAKhGe;Customer Experience;CRM Issues;Completed;Medium;Member 1;10/19/2024;10/21/2024;10/21/2024;10/21/2024;Member 1;Development
+Q7BAMf9Es0eyCGJDcLdVHGUACeX8;Human Resources;CRM Issues;Completed;Medium;Member 1;10/24/2024;10/24/2024;10/24/2024;10/24/2024;Member 1;Development
+eFom6jKNNkCOuz0pqZCXJ2UAK8ml;VP of BO;Salesforce;Not started;Important;Member 1;10/29/2024;10/29/2024;;;;Development
+wEBC0BiyFUKpx3O__nFbOGUAL1EX;Administrative & Financial ;App support;Not started;Important;Member 1;10/30/2024;10/30/2024;;;;Adjustment
+QWn3T9aR1EOboiO_Va8hX2UAA0Pp;Customer Experience;CRM Issues;Completed;Medium;Member 1;10/30/2024;10/30/2024;10/30/2024;11/1/2024;Member 1;Development
+GwmEaDMaV0KxiecfD6eW7WUADYyY;Customer Experience;App support;Completed;Medium;Member 1;10/31/2024;10/28/2024;11/1/2024;11/1/2024;Member 1;Automations
+tvlH8bQHTki_2P9vlvW0u2UAFXx2;Marketing;CRM Issues;Completed;Medium;Member 1;11/1/2024;11/1/2024;11/1/2024;11/1/2024;Member 1;Development
+JDUDJ7IfQUylARCmQleEd2UAA5gy;Sales;Salesforce;Completed;Medium;Member 1;11/5/2024;11/1/2024;11/5/2024;11/5/2024;Member 1;Development
+W6aNZmavvkaW2rJypHpVeWUAFDm8;Branding & Design;CRM Issues;Completed;Medium;Member 1;5/11/2024;5/11/2024;6/11/2024;6/11/2024;Member 1;Development
+X4jEZoPliUWdpOItaHhyXWUAMNg2;Customer Experience;CRM Issues;Completed;Medium;Member 1;11/11/2024;11/11/2024;12/11/2024;12/11/2024;Member 1;Adjustment
+LRB1e3sWt0iO48sKhogGkmUANs2k;Sales;Salesforce;Completed;Medium;Member 1;12/11/2024;12/11/2024;12/11/2024;12/11/2024;Member 1;Adjustment
+bJbOEaZxgk-iNTyfHIJ3v2UAMFz5;Marketing;Salesforce;Completed;Medium;Member 1;11/13/2024;11/18/2024;11/18/2024;11/18/2024;Member 1;Development
+Ii2lt_2auUa6soKQiHVRpGUAOBRz;Customer Experience;CRM Issues;Completed;Medium;Member 1;11/14/2024;8/11/2024;11/15/2024;11/15/2024;Member 1;Development
+XjwuInjLcEep-o8TpXcdnmUAL1vI;VP of BO;Salesforce;Completed;Medium;Member 1;11/18/2024;11/18/2024;11/18/2024;11/18/2024;Member 1;Development
+sv9T7e7NEOLYTRCIdUYlWUACRWH;Customer Experience;CRM Issues;Completed;Medium;Member 1;11/18/2024;4/11/2024;11/18/2024;11/18/2024;Member 1;Development
+LrGJP1eeVEWqSKXRfWqkl2UAJ9p2;Administrative & Financial ;App support;Completed;Medium;Member 1;11/19/2024;11/20/2024;11/20/2024;11/20/2024;Member 1;Development
+QB5dJ-Ru6kuo-YgTjaGagWUAIqe_;Customer Experience;App support;Completed;Urgent;Member 1;11/20/2024;11/21/2024;11/21/2024;11/21/2024;Member 1;Development
+V3KXDCjk6UO0QS41wXXn3GUACMmw;Customer Experience;CRM Issues;Completed;Medium;Member 1;11/21/2024;11/25/2024;11/25/2024;11/25/2024;Member 1;Development
+VyGUgLbX7UydLfOircVCWmUAIsMa;Projects;App support;Completed;Important;Member 1;11/22/2024;11/22/2024;11/22/2024;11/22/2024;Member 1;Development
+WLDXF9YEUkiE7ksWAl2T1GUALrqT;Customer Experience;App support;Completed;Medium;Member 2;6/5/2024;6/5/2024;6/5/2024;6/5/2024;Member 2;Development
+8aBehUjbGkCMH-419GcDX2UAG0ZR;Projects;CRM Issues;Not started;Urgent;Member 2;11/1/2024;12/1/2024;12/5/2024;;;Development
+B5-jfZSl0EW_QMQXtNnAGGUAOcBK;Customer Experience;Projects;Completed;Medium;Member 2;7/9/2024;8/1/2024;8/31/2024;9/2/2024;Member 2;Development
+bWgBvbbnBUSbc0gBtFCokmUAJ0pz;Projects;CRM Issues;Completed;Urgent;Member 2;8/14/2024;9/1/2024;9/9/2024;9/9/2024;Director;Development
+EEs8FvRGx0G82zNjWrXqbWUAOwfu;Customer Experience;App support;Completed;Medium;Member 2;6/5/2024;6/1/2024;6/30/2024;7/9/2024;Member 2;Development
+KTQW4adP9UG8N5af5AWt8WUAMoHy;Projects;CRM Issues;Completed;Urgent;Member 2;6/6/2024;7/5/2024;7/5/2024;7/9/2024;Director;Development
+MKkIjwMDLkacEpuP1YS2zGUAEBcI;Projects;CRM Issues;Completed;Important;Member 2;7/2/2024;8/1/2024;8/2/2024;8/6/2024;Director;Development
+QGeHdNe0nkG2JIHo_L7zWGUAEN1_;Sales;Salesforce;Completed;Medium;Member 2;6/17/2024;6/1/2024;6/30/2024;7/2/2024;Member 2;Development
+9IjbmuZddE-cJ46Rl2YtyGUABleU;VP of BO;Salesforce;Completed;Urgent;Member 2;6/4/2024;6/4/2024;6/21/2024;6/17/2024;Member 2;Development
+3GGXzY8JmUC0p4uF-BJbMmUAKgPH;Human Resources;App support;Completed;Important;Member 2;5/16/2024;2/1/2024;6/30/2024;7/24/2024;Member 2;Project
+Tkj6gKUujkywjj_xivs4WmUAKWhf;Sales;Salesforce;Completed;Urgent;Member 2;5/21/2024;5/14/2024;6/14/2024;6/20/2024;Member 2;Project
+sl9ZZ-2P3km9nNH-v-aVmUAKLTN;Sales;Salesforce;Completed;Urgent;Member 2;5/21/2024;5/14/2024;6/21/2024;7/17/2024;Member 2;Project
+w_QDnUpGk0eFeG5RUHE3NWUAFuim;Customer Experience;App support;Completed;Medium;Member 2;5/29/2024;5/29/2024;5/31/2024;5/29/2024;Director;Development
+yXCVgMomDE67mV3xF3Qv-WUALEiV;Projects;App support;Completed;Medium;Member 2;6/5/2024;5/31/2024;6/7/2024;6/7/2024;Member 2;Development
+b9jg32ZfkEGNWfT6BHXATWUAHIUX;Branding & Design;App support;Completed;Medium;Member 2;5/31/2024;5/30/2024;6/21/2024;6/12/2024;Member 2;Development
+SFcXdWu2ckybSd_9kMAb3WUADx4h;Customer Experience;CRM Issues;Completed;Medium;Member 2;6/19/2024;6/19/2024;6/21/2024;7/9/2024;Member 2;Development
+GmsiQvwPkE6jxS8MRB4GKGUAFMkY;VP of BO;Salesforce;Completed;Urgent;Member 2;6/17/2024;6/17/2024;6/17/2024;6/17/2024;Director;Project
+JHV4JNBA70iCyBGmE7vvjGUANqVX;Customer Experience;App support;Completed;Important;Member 2;5/21/2024;5/27/2024;7/19/2024;7/23/2024;Member 2;Project
+fkZQSL1fMUmNZFjt2BW_2GUAIzeQ;Customer Experience;CRM Issues;Completed;Medium;Member 2;6/19/2024;6/19/2024;6/21/2024;6/21/2024;Director;Development
+Vf_MTZ_61U-aWttIrDF4EWUAOQ2P;Projects;App support;Completed;Important;Member 2;6/21/2024;6/21/2024;8/30/2024;9/9/2024;Member 1;Development
+bS2pdPUYQ0KuqJxE9ze1fWUAHOqZ;VP of BO;Salesforce;Completed;Important;Member 2;6/26/2024;6/25/2024;6/30/2024;6/26/2024;Director;Development
+ujG5QTX-4EKXngTeym9ak2UALKvq;VP of BO;Salesforce;Completed;Important;Member 2;7/17/2024;8/2/2024;8/15/2024;8/12/2024;Member 2;Development
+4mI8WiP5WUyuoktnhC_JRmUAFZ5u;Customer Experience;App support;Completed;Urgent;Member 2;5/17/2024;10/2/2023;6/7/2024;5/17/2024;Director;Development
+B4KCkiNY10qJyKtvZ9Tz8mUALpk7;Customer Experience;CRM Issues;Completed;Medium;Member 2;6/19/2024;6/19/2024;6/21/2024;6/21/2024;Director;Development
+bbFhvdT-e0eO0zBi2GcilGUAE_sw;Projects;CRM Issues;Completed;Important;Member 2;6/4/2024;7/1/2024;7/1/2024;7/2/2024;Member 2;Development
+btRmZTP2Z0eYD7RSySL-AmUAKtQM;Field Operations;App support;Completed;Important;Member 2;5/17/2024;9/1/2023;3/30/2024;5/17/2024;Director;Project
+E_C23KPSpEWs923SQtzVKmUAMIfj;Customer Experience;CRM Issues;Completed;Medium;Member 2;5/17/2024;6/1/2024;6/30/2024;7/9/2024;Member 2;Development
+Ej4uhi_fmUW14effKAp9WGUAP8by;P&P;CRM Issues;Completed;Important;Member 2;5/16/2024;5/16/2024;6/15/2024;6/15/2024;;Development
+eRLjaqtOekinv29FBJo__WUAPdp0;Customer Experience;CRM Issues;Completed;Medium;Member 2;6/19/2024;6/19/2024;6/21/2024;6/21/2024;Director;Development
+f3H4CQ4d3kWYOsNpggp--mUAKGr5;Projects;CRM Issues;Completed;Important;Member 2;5/16/2024;6/1/2024;6/1/2024;6/4/2024;Director;Development
+fX1GNyNT00yQvYL-JlPyKmUAM1_G;Customer Experience;App support;Completed;Important;Member 2;5/24/2024;6/1/2024;6/30/2024;7/2/2024;Member 2;Development
+hRIU-cMJfUCVShckDnWFkmUADNsS;VP of BO;Salesforce;In progress;Important;Member 2;5/17/2024;8/29/2024;10/31/2024;;;Development
+MA2m1CmHDEGwuDa7JpXZ8mUACNyt;Customer Experience;App support;Completed;Urgent;Member 2;5/17/2024;4/1/2024;5/31/2024;5/17/2024;Director;Development
+QXSjNT9ZAUKriWEfI2NJrWUALXbt;Field Operations;App support;Completed;Important;Member 2;5/17/2024;9/1/2023;2/29/2024;5/17/2024;Director;Development
+rEc5cMQB6Uyu_lfcouDwSmUAC_HT;Customer Experience;App support;Completed;Medium;Member 2;5/17/2024;5/13/2024;8/30/2024;8/14/2024;Member 2;Development
+T0wH6HopREWjNJ5YnczimmUALyYH;Customer Experience;CRM Issues;Completed;Medium;Member 2;5/23/2024;5/23/2024;5/23/2024;6/6/2024;Director;Development
+u25fwDZ4W0O43quyKps-iWUAJLkw;Customer Experience;App support;Completed;Urgent;Member 2;5/30/2024;5/20/2024;6/14/2024;6/24/2024;Member 2;Development
+YBkXf4WXlkKZgIY_ya80AWUAJm6k;Projects;CRM Issues;Completed;Urgent;Member 2;9/9/2024;10/1/2024;10/7/2024;10/9/2024;Director;Development
+YjBGt68kLkCJxhrc3bnCfmUAHJdU;Customer Experience;App support;Completed;Urgent;Member 2;5/17/2024;2/1/2024;2/29/2024;5/17/2024;Director;Development
+yl3Tkl2dcUa4OqxFJoyNhWUAIdjZ;Projects;CRM Issues;Completed;Urgent;Member 2;10/9/2024;10/25/2024;10/31/2024;11/1/2024;Member 2;Development
+z60bIhI462zGo2PuGuPQ2UABY4g;Projects;CRM Issues;Completed;Urgent;Member 2;5/16/2024;6/6/2024;6/6/2024;6/6/2024;Member 2;Development
+Zlxjor_wakatqd67-DedTGUAIJmW;Projects;CRM Issues;Completed;Urgent;Member 2;7/9/2024;8/5/2024;8/5/2024;8/6/2024;Director;Development
+EKQtvRpv40mWGq5huy2s0mUACKU1;Customer Experience;CRM Issues;Completed;Important;Member 2;9/23/2024;9/23/2024;9/23/2024;9/23/2024;Member 1;Development
+nNfYAjIH3kO0erii3K4WQmUAIQsp;VP of BO;Salesforce;Completed;Medium;Member 2;7/9/2024;7/9/2024;8/14/2024;8/14/2024;Member 2;Automation
+QLyH80dE40Wt3yEFuCaPmWUAP5GV;Customer Experience;CRM Issues;Completed;Medium;Member 2;7/10/2024;7/10/2024;7/10/2024;7/10/2024;Member 2;Development
+SVSGdffnDkapKKtxfIo1ZmUANiie;Customer Experience;CRM Issues;Completed;Medium;Member 2;7/10/2024;7/10/2024;7/10/2024;7/10/2024;Member 2;Development
+tDdfK2Or6UWVKlgiUc39PGUAHQzS;Customer Experience;CRM Issues;Completed;Important;Member 2;7/17/2024;7/17/2024;7/17/2024;7/22/2024;Member 2;Development
+pAf6XcTbGEqFsLQXtKXEKmUAJCPv;Customer Experience;CRM Issues;Completed;Important;Member 2;7/19/2024;7/19/2024;7/19/2024;7/22/2024;Member 2;Development
+4fGEN4iPf0-VSNsupq8iBmUAOZr6;Customer Experience;CRM Issues;Completed;Important;Member 2;7/19/2024;7/19/2024;7/19/2024;7/22/2024;Member 2;Development
+j1qtbnXdgkGCrYAwchVWJWUAEaaJ;Customer Experience;CRM Issues;Completed;Important;Member 2;7/19/2024;7/19/2024;7/19/2024;7/22/2024;Member 2;Development
+OLQY0CnvSkuIZeckhpUnEGUAAX8_;VP of BO;Salesforce;Completed;Important;Member 2;7/24/2024;7/24/2024;7/25/2024;7/24/2024;Director;Development
+uPYq47sTKEq4ccZlQYrOUmUAM4kC;Customer Experience;CRM Issues;Completed;Urgent;Member 2;7/26/2024;7/26/2024;7/26/2024;7/29/2024;Member 1;Development
+n4tAopM7EEWfoET4THH1SGUAO69U;Customer Experience;CRM Issues;Completed;Medium;Member 2;8/2/2024;8/2/2024;8/5/2024;8/5/2024;Member 1;Development
+4IukRTMaWU6ACLIgRCaNJmUABgmg;Customer Experience;CRM Issues;Completed;Important;Member 2;8/8/2024;8/8/2024;8/9/2024;8/8/2024;Member 1;Development
+dZTxRzuCI0O95-_O4-DpjmUANdC8;Customer Experience;CRM Issues;Completed;Important;Member 2;8/9/2024;8/12/2024;8/12/2024;8/9/2024;Member 1;Development
+ecvOW9W8-Em_AduE2H5qb2UAHKrD;VP of BO;Salesforce;Completed;Medium;Member 2;8/15/2024;8/9/2024;8/12/2024;8/15/2024;Member 2;Development
+3e7bauKt-kurN8bhCrMpwGUAFUkD;Sales;Salesforce;Completed;Medium;Member 2;8/15/2024;8/15/2024;8/15/2024;8/15/2024;Member 2;Development
+9wYWnWm5C0iDxZO5fWSwI2UAI6NH;Sales;Salesforce;Completed;Medium;Member 2;8/15/2024;8/15/2024;8/15/2024;8/16/2024;Member 2;Development
+hERDcVQCjE2vyngdNB4G4WUAHwB_;Projects;App support;Completed;Medium;Member 2;8/15/2024;8/15/2024;8/16/2024;8/16/2024;Member 2;Development
+9cu31Us9IEyI0jO0_3UaT2UAPUf2;VP of BO;Salesforce;Completed;Important;Member 2;8/15/2024;8/16/2024;8/22/2024;8/16/2024;Member 2;Development
+-BKeK63SgE2ucsUW6FxL9mUAOERf;Administrative & Financial ;App support;Completed;Medium;Member 2;8/16/2024;8/16/2024;8/26/2024;8/26/2024;Member 2;Development
+d2n6sqlFKUyAzftDmZGuNmUADVMs;Customer Experience;App support;Completed;Medium;Member 2;8/16/2024;8/16/2024;8/30/2024;8/22/2024;Member 2;Development
+gTf9rpiBkE-Q1aZ5xyjJumUAF0K4;VP of BO;Salesforce;Completed;Medium;Member 2;8/20/2024;8/20/2024;8/20/2024;8/20/2024;Member 2;Development
+37VO2HdZG0GktHB8jQiRBmUAJ5z1;Customer Experience;CRM Issues;Completed;Important;Member 2;8/22/2024;8/22/2024;10/4/2024;10/18/2024;Member 2;Development
+I9M882bLMkChELOexeUo3GUADtK8;VP of BO;Salesforce;Completed;Urgent;Member 2;8/23/2024;8/23/2024;8/30/2024;8/30/2024;Member 2;Automation
+A0DlTnhVjkCTq79anvjduWUADsHT;Sales;Salesforce;Completed;Urgent;Member 2;8/29/2024;8/29/2024;10/18/2024;11/1/2024;Member 2;Development
+Yut5QlCdj0Otbtrrkf4wLmUAJlGP;Customer Experience;CRM Issues;Completed;Important;Member 2;9/2/2024;9/2/2024;9/20/2024;9/11/2024;Member 2;Development
+hlGOKCjApEuujrtZu-L3fmUAP-x_;Customer Experience;CRM Issues;Completed;Medium;Member 2;9/4/2024;9/4/2024;9/4/2024;9/4/2024;Member 1;Development
+gbF9zDgEmUOFqtrNqipaXmUAFp6b;Customer Experience;CRM Issues;Completed;Medium;Member 2;9/4/2024;9/4/2024;9/4/2024;9/18/2024;Member 2;Development
+R-kuZzVnR0i0bYFavjJKz2UAOQJC;Customer Experience;CRM Issues;Completed;Medium;Member 2;9/9/2024;9/9/2024;9/9/2024;9/9/2024;Member 1;Development
+4P22dnlMO0ui1HJx30aI52UAGfsx;Projects;Salesforce;Completed;Urgent;Member 2;9/12/2024;9/11/2024;9/12/2024;9/13/2024;Member 2;Development
+qvYOWcHdy0e1zfZ4nch6IWUAIimg;Projects;Projects;Completed;Urgent;Member 2;9/12/2024;9/2/2024;9/30/2024;9/13/2024;Member 2;Development
+9PZDQXZarEiG44zHpiKTLmUAKPzD;Customer Experience;App support;Completed;Urgent;Member 2;9/18/2024;9/18/2024;9/19/2024;9/19/2024;Member 2;Development
+n1HGwLgj2kGdWgndkOdleGUAK9yO;Customer Experience;CRM Issues;Completed;Important;Member 2;9/23/2024;9/24/2024;9/24/2024;9/24/2024;Member 1;Development
+uMByw4lCb0evxUKfNQmWRGUABJ4h;Sales;Salesforce;Completed;Urgent;Member 2;10/3/2024;10/2/2024;10/18/2024;10/22/2024;Member 2;Development
+2C1HA2C7GkuiQ2wyJn-pTWUANmmu;VP of BO;Salesforce;Completed;Medium;Member 2;10/9/2024;10/9/2024;10/10/2024;10/10/2024;Member 2;Development
+_yxDko_8OUq00T1IPbNV-GUAKZhI;VP of BO;Salesforce;Completed;Medium;Member 2;10/9/2024;10/9/2024;10/10/2024;10/10/2024;Member 2;Development
+E-Di4xHbpE-UccivYCf0vWUAICCX;Customer Experience;CRM Issues;Completed;Urgent;Member 2;10/15/2024;10/16/2024;10/16/2024;10/18/2024;Member 2;Development
+dRcMSjhq_Uqbp-yqap6wVWUAO_Go;VP of BO;Salesforce;Not started;Medium;Member 2;10/24/2024;10/24/2024;;;;Development
+hL6a9_d230ibSye0RtBzrWUAAtBQ;Human Resources;App support;Completed;Medium;Member 2;10/24/2024;10/22/2024;11/1/2024;10/28/2024;Member 2;Development
+tS8dFkyPdkWND4NEkvp8tGUAMRBt;Sales;Salesforce;Completed;Medium;Member 2;10/24/2024;10/24/2024;10/24/2024;10/24/2024;Member 2;Automation
+RD3pbZD2AEiJSjpnZS9_J2UAH95W;Human Resources;App support;In progress;Medium;Member 2;10/28/2024;10/28/2024;10/29/2024;;;Development
+MigKnRrc5k6CIJOPm0YgEmUAAxRt;VP of BO;Salesforce;Not started;Medium;Member 2;10/29/2024;10/29/2024;10/30/2024;;;Development
+lAC12vjWkyhLfswpFR_xWUABI4j;Customer Experience;App support;Completed;Medium;Member 2;10/29/2024;10/26/2024;10/29/2024;10/29/2024;Member 2;Adjustment
+K9DnFADNA0aCf63LveLFFmUAG9eT;Customer Experience;App support;Completed;Medium;Member 2;10/29/2024;10/29/2024;10/29/2024;10/29/2024;Member 2;Development
+LYE_w_GzAUOXl4MTlHCINGUAE5LR;Sales;Salesforce;Completed;Medium;Member 2;10/29/2024;10/29/2024;11/1/2024;11/1/2024;Member 2;Development
+pomsLuoiIESW26H19BJsTGUAA1JH;Customer Experience;CRM Issues;Completed;Important;Member 2;10/29/2024;10/29/2024;10/31/2024;10/31/2024;Member 2;Development
+iT6cLRm5Q0SKttB3JQLNb2UAOkgF;Customer Experience;CRM Issues;Completed;Important;Member 2;10/30/2024;10/30/2024;10/30/2024;10/30/2024;Member 2;Development
+vcrir-hc3UuwePCVtmcWsGUAOOrY;Customer Experience;CRM Issues;Completed;Medium;Member 2;10/30/2024;10/30/2024;10/30/2024;10/30/2024;Member 2;Development
+o2bQmeWzWkaFvDxTGH4wvWUAJFDH;Customer Experience;CRM Issues;Completed;Medium;Member 2;10/30/2024;10/30/2024;10/30/2024;10/30/2024;Member 2;Development
+4k7MdkylB0K6iU54gNH5CWUAAkyY;Customer Experience;CRM Issues;Completed;Important;Member 2;11/26/2024;11/26/2024;11/26/2024;11/26/2024;Member 1;Development
+wZ4iiTjFNEyKckMysGKyS2UAPRQy;Administrative & Financial ;Accounting Processes;Completed;Important;Director;6/4/2024;6/5/2024;7/12/2024;6/18/2024;Director;Process
+-jp8br7TYkGMcgRz--yXC2UABnkp;Administrative & Financial ;Accounting Processes;Completed;Urgent;Director;5/17/2024;4/1/2024;6/15/2024;6/14/2024;Director;Process
+2GzGUU1WF0mc7eoSOpf7_mUANByn;Human Resources;Human Resources Processes;Completed;Urgent;Director;5/17/2024;9/4/2024;9/20/2024;9/12/2024;Director;Process
+cmamHMmgwk-3Rdylz80DSGUABbD1;Administrative & Financial ;Accounting Processes;Completed;Medium;Director;9/13/2024;9/11/2024;9/27/2024;9/25/2024;Director;Process
+2GyC6JHcckOZkQHNgRen9GUAMxpC;Administrative & Financial ;Accounting Processes;Completed;Urgent;Director;5/16/2024;5/14/2024;5/22/2024;5/23/2024;Director;Process
+3A3tcpp7LEupoLwYaFmH0GUADcIE;Customer Experience;CRM Issues;Completed;Important;Director;5/16/2024;5/16/2024;9/30/2024;9/30/2024;;Process
+PAUf-RvBAUeg_lt46Y9WQWUAOrEM;Human Resources;Human Resources Processes;Not started;Medium;Director;5/17/2024;1/8/2024;3/30/2024;;;Process
+Hey1Gwij9EOF16C9goTJ5mUAMEWY;Projects;Human Resources Processes;Completed;Medium;Director;9/19/2024;9/24/2024;9/30/2024;10/2/2024;Director;Process
+oVN7-0Y3pkaCZznso0C4F2UAFBVW;Sales;Projects;In progress;Important;Director;8/15/2024;8/12/2024;9/13/2024;;;Process
+0nxouPy_f0GIgwVhnUC6QGUADLQ7;IT;Projects;Completed;Medium;Member 4;8/28/2024;8/27/2024;9/13/2024;10/9/2024;Director;Development
+rJnxhrZT9EWJPlslWj8jiWUAM49k;Administrative & Financial ;Accounting Processes;In progress;Important;Member 4;5/21/2024;6/19/2024;10/31/2024;;;Project
+mfH3zUfO00aLEV3ZWhO8pmUALKRD;Projects;Accounting Processes;Not started;Important;Member 4;10/2/2024;10/1/2024;10/31/2024;;;Development
+Hf3AEzUx5U2ILkp28vZK-GUAETFb;Accounting;Accounting Processes;Completed;Important;Member 4;7/11/2024;11/18/2024;11/30/2024;;;Development
+nC9pKiKaZE2y5Q0KggvUemUAHLR2;Branding & Design;Marketing;Not started;Medium;Member 4;11/19/2024;;;;;Project
+spru-TExbUq3tOp56A2zkWUAEpsO;VP of BO;Projects;In progress;Important;Director;7/24/2024;7/1/2024;9/30/2024;;;Project
+pBSbfur6MkyScHowcx4JX2UAEVMi;VP of BO;Projects;In progress;Urgent;Director;5/17/2024;9/1/2023;11/30/2024;;;Project
+6rVat75xdk23rY9T9156amUAGt41;VP of BO;Projects;Completed;Important;Director;6/18/2024;6/2/2024;9/30/2024;11/5/2024;Director;Process
+UCUh3Bqzg0uXhWYvJ9ouFWUAFeJL;VP of BO;Projects;Completed;Urgent;Director;5/17/2024;3/1/2024;10/31/2024;11/5/2024;Director;Project
+nC9pKiKaZE2y5Q0KggvUemUAHLR2fdf;Accounting;Marketing;Completed;Medium;Member 4;11/19/2024;6/19/2024;10/31/2024;11/15/2024;Director;Automation
